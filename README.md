@@ -1,5 +1,7 @@
 pgmpy
 =====
+
+[![Join the chat at https://gitter.im/sandeepkrjha/pgmpy](https://badges.gitter.im/sandeepkrjha/pgmpy.svg)](https://gitter.im/sandeepkrjha/pgmpy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/pgmpy/pgmpy.svg?style=flat)](https://travis-ci.org/pgmpy/pgmpy)
 [![Coverage Status](https://coveralls.io/repos/pgmpy/pgmpy/badge.svg?branch=dev)](https://coveralls.io/r/pgmpy/pgmpy?branch=dev)
 [![Code Health](https://landscape.io/github/pgmpy/pgmpy/dev/landscape.svg?style=flat)](https://landscape.io/github/pgmpy/pgmpy/dev)
